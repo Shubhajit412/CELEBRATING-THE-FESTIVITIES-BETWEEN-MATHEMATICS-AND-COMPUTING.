@@ -6,9 +6,9 @@
 % Program : To approximate a root of the equation
 % f(x) = 0 in the interval [a, b]. 
 %---------------------------------
-% The main function defined is bisect().
+% The main function defined is Fixed_point().
 % To use this function run the command:
-% [numit,p,relerr,P] = fixpt(appropriate inputs)
+% [numit,p,relerr,P] = Fixed_point(appropriate inputs)
 % in the command window.
 %---------------------------------
 
